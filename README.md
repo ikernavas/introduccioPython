@@ -6,7 +6,7 @@ Benvinguts al meu repositori de programes de Python.
 
 - [Hello World](hello_world.py)
 
-## Practiques de programació
+# Practiques de programació
 
 ## Bateria d'exercicis 1
 
