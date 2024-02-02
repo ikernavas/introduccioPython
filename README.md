@@ -6,7 +6,7 @@ Benvinguts al meu repositori de programes de Python.
 
 - [Hello World](hello_world.py)
 
- # Bateria d'exercisis 1
+ ## Bateria d'exercisis 1
 
 - [Exercici 1](bateria1.1.py)
 - [Exercici 2](bateria1.2.py)
