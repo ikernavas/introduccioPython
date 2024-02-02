@@ -8,4 +8,4 @@ Benvinguts al meu repositori de programes de Python.
 
  # Bateria d'exercisis 1
 
-- [Exercici 1
+- [Exercici 1](bateria1.1.py)
