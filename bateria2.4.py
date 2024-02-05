@@ -2,9 +2,9 @@
 
 nota = float(input("Diga'm la teva nota: "))
 if nota >= 1 and nota <= 4:
-    resultat = "Insuficient
+    resultat = "Insuficient"
 elif nota == 5:
-    resultat = "Suficient
+    resultat = "Suficient"
 elif nota == 6:
     resultat = "Bé"
 elif nota >= 7 and nota <= 8:
