@@ -25,3 +25,4 @@ Benvinguts al meu repositori de programes de Python.
 - [Exercici 5](bateria2.5.py)
 
 ## Bateria d'exercicis 3
+- N/A
