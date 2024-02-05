@@ -21,3 +21,4 @@ Benvinguts al meu repositori de programes de Python.
 - [Exercici 1](bateria2.1.py)
 - [Exercici 2](bateria2.2.py)
 - [Exercici 3](bateria2.3.py)
+- [Exercici 4](bateria2.4.py)
