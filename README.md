@@ -23,3 +23,5 @@ Benvinguts al meu repositori de programes de Python.
 - [Exercici 3](bateria2.3.py)
 - [Exercici 4](bateria2.4.py)
 - [Exercici 5](bateria2.5.py)
+
+## Bateria d'exercicis 3
