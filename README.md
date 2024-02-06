@@ -31,3 +31,9 @@ Benvinguts al meu repositori de programes de Python.
 - Exercici 3: N/A
 - Exercici 4: N/A
 - Exercici 5: N/A
+
+ ## Bateria d'exercicis 4
+- Exercici 1: N/A
+- Exercici 2: N/A
+- Exercici 3: N/A
+- Exercici 4: N/A
