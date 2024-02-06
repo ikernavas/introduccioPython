@@ -34,6 +34,6 @@ Benvinguts al meu repositori de programes de Python.
 
  ## Bateria d'exercicis 4
 - [Exercici 1](bateria4.1.py)
-- Exercici 2: N/A
+- [Exercici 2](bateria4.2.py)
 - Exercici 3: N/A
 - Exercici 4: N/A
