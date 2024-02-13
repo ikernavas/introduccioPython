@@ -4,7 +4,7 @@ def suma_fins_a(numero):
     suma = 0
     for i in range(1, numero + 1):
         suma += i
-    print(f"La suma de tots els nombres fins a {numero} és: {suma}")
+    print("La suma de tots els nombres fins a {numero} és: {suma}")
 
 numero = int(input("Introdueix un número: "))
 suma_fins_a(numero)
