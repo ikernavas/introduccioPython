@@ -6,7 +6,7 @@ Benvinguts al meu repositori de programes de Python.
 
 - [Hello World](hello_world.py)
 - [Factorial](factorial.py)
-- Funció Factorial: N/A
+- [Funcio Factorial](funciofactorial.py)
 
 # Practiques de programació
 
