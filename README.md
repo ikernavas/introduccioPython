@@ -28,10 +28,10 @@ Benvinguts al meu repositori de programes de Python.
 
 ## Bateria d'exercicis 3
 - [Exercici 1](bateria3.1.py)
-- Exercici 2: N/A
-- Exercici 3: N/A
-- Exercici 4: N/A
-- Exercici 5: N/A
+- [Exercici 2](bateria3.2.py)
+- [Exercici 3](bateria3.3.py)
+- [Exercici 4](bateria3.4.py)
+- [Exercici 5](bateria3.5.py)
 
  ## Bateria d'exercicis 4
 - [Exercici 1](bateria4.1.py)
