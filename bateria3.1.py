@@ -3,4 +3,4 @@
 numero = int(input("Introdueix un número: "))
 print(f"Taula de multiplicar del {numero}:")
 for i in range(1, 11):
-    print(f"{numero} x {i} = {numero * i}")
+    print("{numero} x {i} = {numero * i}")
