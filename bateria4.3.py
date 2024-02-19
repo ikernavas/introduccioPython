@@ -5,4 +5,4 @@ def suma_imparells_fins_a(num):
 
 numero = int(input("Introdueix un número: "))
 resultat = suma_imparells_fins_a(numero)
-print(f"La suma dels números imparells fins a {numero} és: {resultat}")
+print("La suma dels números imparells fins a {numero} és: {resultat}")
