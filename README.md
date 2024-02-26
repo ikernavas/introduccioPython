@@ -9,7 +9,7 @@ Benvinguts al meu repositori de programes de Python.
 - [Funcio Factorial](funciofactorial.py)
 - [Taula de Multiplicar](taulamultiplicar.py)
 - [Calculadora](calculadora.py)
-- [Excepcions] N/A
+- [Excepcions](excepcions.py)
 
 # Practiques de programació
 
