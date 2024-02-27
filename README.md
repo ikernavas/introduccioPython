@@ -41,3 +41,4 @@ Benvinguts al meu repositori de programes de Python.
 - [Exercici 3](bateria4.3.py)
 
 ## Bateria d'exercicis 5
+- [Exercici 1](bateria5.1.py)
