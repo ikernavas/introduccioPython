@@ -41,3 +41,9 @@ except:
 
 # Activitat 4: Crea una llista amb alguns elements i demana a l'usuari un índex. Utilitza try i except per gestionar l'error que es produeix quan l'índex no existeix a la llista.
 
+llista=[1,3,4,7,9]
+index=input("Quin element vols mostrar? ")
+try:
+     print(llista[int(index)])
+ except:
+     print("Aquest element no hi és ")
