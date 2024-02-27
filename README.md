@@ -35,7 +35,9 @@ Benvinguts al meu repositori de programes de Python.
 - [Exercici 4](bateria3.4.py)
 - [Exercici 5](bateria3.5.py)
 
- ## Bateria d'exercicis 4
+## Bateria d'exercicis 4
 - [Exercici 1](bateria4.1.py)
 - [Exercici 2](bateria4.2.py)
 - [Exercici 3](bateria4.3.py)
+
+## Bateria d'exercicis 5
