@@ -6,4 +6,4 @@
 ## Fons del Joc:
 
 ![Portada](portada_marcianitos.png)
-![Fons](fons_joc)
+![Fons](fons_joc.png)
