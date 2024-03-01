@@ -2,6 +2,7 @@
 
 ![Nave espacial](nauespacial.png)
 ![Bala](bala.png)
+![Enemic](enemigo.png)
 
 ## Fons del Joc:
 
