@@ -10,6 +10,8 @@ Benvinguts al meu repositori de programes de Python.
 - [Taula de Multiplicar](taulamultiplicar.py)
 - [Calculadora](calculadora.py)
 - [Excepcions](excepcions.py)
+- [Lletra C](crectangle.pỳ)
+- [Escala](escala.py)
 
 # Practiques de programació
 
